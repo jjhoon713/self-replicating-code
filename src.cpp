@@ -12,7 +12,8 @@ string a = R"(int main(int argc, char *argv[]) {
 	}
 	return 0;
 }
-//Jihoon Chung 20311792)";
+//Jihoon Chung 20311792
+)";
 int main(int argc, char *argv[]) {
 	if (argc == 2) {
 		ofstream myfile;
